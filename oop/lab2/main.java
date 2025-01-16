@@ -1,3 +1,4 @@
+// Nazarova Kseniia, 2024
 package laba2;
 
 public class main {
