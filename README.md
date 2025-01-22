@@ -8,7 +8,7 @@
    * Директория: [discrete_math](https://github.com/ksuhangit/03_sem_sbpstu/tree/main/discrete_math). Все работы и доп. материалы находятся [тут](https://disk.yandex.ru/d/EOLshCuxf0d3Vg)
 2. Теория автоматов и формальных языков
    * Преподаватель: Тышкевич А.И.
-   * Директория:
+   * Директория: [theory_of_automata_and_formal_languages]()
 3. Объектно-ориентированное программирование
    * Преподаватель: Маслаков А.П.
    * Директория:
