@@ -11,7 +11,7 @@
    * Директория: [theory_of_automata_and_formal_languages](https://github.com/ksuhangit/03_sem_sbpstu/tree/main/theory_of_automata_and_formal_languages). Все работы и доп. материалы находятся [тут]()
 3. Объектно-ориентированное программирование
    * Преподаватель: Маслаков А.П.
-   * Директория:
+   * Директория: [oop](https://github.com/ksuhangit/03_sem_sbpstu/tree/main/oop)
 4. Вычислительная математика
    * Преподаватель: Устинов С.М.
    * Директория:
