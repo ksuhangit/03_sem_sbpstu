@@ -1,3 +1,5 @@
+````c++
+
 // Created by Nazarova Kseniia, 2024
 
 #include <iostream>
@@ -72,7 +74,7 @@ string markovAlgorithm(string input) {
     // Правило 6: # -> (пусто)
     input = replace(input, "#", "");
 
-   
+
     input = replace(input, "*", "");
 
     return input;
@@ -111,4 +113,4 @@ int main() {
 
     return 0;
 }
-
+````
