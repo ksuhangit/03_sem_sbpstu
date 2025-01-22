@@ -5,7 +5,7 @@
   
 1. Дискретная математика
    * Преподаватель: Тышкевич А.И.
-   * Директория: [discrete_math](https://github.com/ksuhangit/03_sem_sbpstu/tree/main/discrete_math). Все работы и доп. материалы находятся [тут]()
+   * Директория: [discrete_math](https://github.com/ksuhangit/03_sem_sbpstu/tree/main/discrete_math). Все работы и доп. материалы находятся [тут](https://disk.yandex.ru/d/EOLshCuxf0d3Vg)
 2. Теория автоматов и формальных языков
    * Преподаватель: Тышкевич А.И.
    * Директория:
