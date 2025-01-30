@@ -1,4 +1,4 @@
-package Lab3_with_opp;
+package Lab3;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
