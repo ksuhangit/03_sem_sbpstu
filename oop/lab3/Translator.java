@@ -1,4 +1,4 @@
-package Lab3_with_opp;
+package Lab3;
 
 /**
  * Класс Translator отвечает за перевод текста с использованием переданного 
