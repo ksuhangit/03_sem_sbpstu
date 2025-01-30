@@ -1,9 +1,4 @@
-package Lab3_with_opp;
-
-/**
- * Интерфейс IDictionary определяет контракт для работы со словарем.
- * Он обеспечивает функциональность перевода текста и загрузки словарных данных из файла.
- */
+package Lab3;
 
 public interface IDictionary {
     String translate(String text);
